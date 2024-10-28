@@ -5,7 +5,7 @@
 ### Project Overview
 Movies have a special place in culture, influencing and reflecting our values. This project explores how certain genres perform at the box office, highlighting the key factors that drive profitability, seasonal trends, and the unique influence of audience culture.
 
-[View the Looker Studio Report](https://lookerstudio.google.com/embed/u/0/reporting/f09a73c4-f328-4de2-8110-eddebb49830c/page/p_g9oq7p92ld)
+[View the Looker Studio Report](https://lookerstudio.google.com/embed/reporting/f09a73c4-f328-4de2-8110-eddebb49830c/page/p_2snmvyv2ld)
 
 ### Key Insights
 
