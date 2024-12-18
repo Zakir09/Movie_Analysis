@@ -2,7 +2,7 @@
 
 **Team Members:** Mustapha, Zakir, Tea, Reyhane
 
----
+## Table of Contents 📑
 
 - [Project Overview](#project-overview)
 - [Objectives 🎯](#objectives)
