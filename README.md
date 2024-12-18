@@ -14,6 +14,7 @@
 
 ---
 
+<h2 id="project-overview">Project Overview</h2>
 ## Project Overview
 Movies hold a unique place in our cultural narrative, reflecting trends and shaping entertainment industries. This project investigates the performance of movie genres at the box office, focusing on key drivers of success, profitability patterns, and cultural influences over the past five decades.
 
@@ -21,7 +22,7 @@ Movies hold a unique place in our cultural narrative, reflecting trends and shap
 
 ---
 
-## Objectives 🎯
+<h2 id="objectives">Objectives 🎯</h2>
 
 Our project sought to address these key questions:
 
@@ -37,7 +38,7 @@ Our project sought to address these key questions:
 
 ---
 
-## Data Description 📈
+<h2 id="data-description">Data Description 📈</h2>
 
 We utilized the following data sources for analysis:
 
@@ -52,7 +53,7 @@ We utilized the following data sources for analysis:
 
 ---
 
-## Software Used 💻
+<h2 id="software-used">Software Used 💻</h2>
 
 The following tools were employed in our analysis:
 
@@ -67,7 +68,7 @@ The following tools were employed in our analysis:
 
 ---
 
-## Data Cleaning 🧹
+<h2 id="data-cleaning">Data Cleaning 🧹</h2>
 
 To prepare the data for meaningful analysis, we undertook the following cleaning steps:
 
@@ -104,7 +105,7 @@ To prepare the data for meaningful analysis, we undertook the following cleaning
 
 ---
 
-## Findings 🔍
+<h2 id="findings">Findings 🔍</h2>
 
 Our analysis revealed key insights from 7,200 movies spanning the last 50 years:
 
@@ -139,7 +140,7 @@ Our analysis revealed key insights from 7,200 movies spanning the last 50 years:
 
 ---
 
-## Conclusion 🎯
+<h2 id="conclusion">Conclusion 🎯</h2>
 
 - The **US leads global movie production**, though production rates slowed significantly in 2020.
 - **Drama** is the most prevalent genre, but **Action** and **Comedy** dominate box office revenue.
