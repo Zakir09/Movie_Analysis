@@ -15,7 +15,6 @@
 ---
 
 <h2 id="project-overview">Project Overview</h2>
-## Project Overview
 Movies hold a unique place in our cultural narrative, reflecting trends and shaping entertainment industries. This project investigates the performance of movie genres at the box office, focusing on key drivers of success, profitability patterns, and cultural influences over the past five decades.
 
 [Explore the Looker Studio Report](https://lookerstudio.google.com/embed/reporting/f09a73c4-f328-4de2-8110-eddebb49830c/page/p_2snmvyv2ld)
