@@ -4,15 +4,15 @@
 
 **Team Members:** Mustapha, Zakir, Tea, Reyhane
 
-## Table of Contents 📑
+## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Objectives 🎯](#objectives)
-- [Data Description 📈](#data-description)
-- [Software Used 💻](#software-used)
-- [Data Cleaning 🧹](#data-cleaning)
-- [Findings 🔍](#findings)
-- [Conclusion 🎯](#conclusion)
+- [Objectives](#objectives)
+- [Data Description](#data-description)
+- [Software Used](#software-used)
+- [Data Cleaning](#data-cleaning)
+- [Findings](#findings)
+- [Conclusion](#conclusion)
 
 ---
 
@@ -23,7 +23,7 @@ Movies hold a unique place in our cultural narrative, reflecting trends and shap
 
 ---
 
-<h2 id="objectives">Objectives 🎯</h2>
+<h2 id="objectives">Objectives</h2>
 
 Our project sought to address these key questions:
 
@@ -39,7 +39,7 @@ Our project sought to address these key questions:
 
 ---
 
-<h2 id="data-description">Data Description 📈</h2>
+<h2 id="data-description">Data Description</h2>
 
 We utilized the following data sources for analysis:
 
@@ -54,22 +54,22 @@ We utilized the following data sources for analysis:
 
 ---
 
-<h2 id="software-used">Software Used 💻</h2>
+<h2 id="software-used">Software Used</h2>
 
 The following tools were employed in our analysis:
 
-- **Python** (Google Colab) 🐍
-- **pandas** 🧑‍💻
-- **numpy** 🔢
-- **matplotlib** 📊
-- **plotly.express** 📈
-- **seaborn** 📉
-- **BigQuery** 🗃️
-- **Looker** 📊
+- **Python** (Google Colab)
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **plotly.express**
+- **seaborn**
+- **BigQuery**
+- **Looker**
 
 ---
 
-<h2 id="data-cleaning">Data Cleaning 🧹</h2>
+<h2 id="data-cleaning">Data Cleaning</h2>
 
 To prepare the data for meaningful analysis, we undertook the following cleaning steps:
 
@@ -106,7 +106,7 @@ To prepare the data for meaningful analysis, we undertook the following cleaning
 
 ---
 
-<h2 id="findings">Findings 🔍</h2>
+<h2 id="findings">Findings</h2>
 
 Our analysis revealed key insights from 7,200 movies spanning the last 50 years:
 
@@ -141,7 +141,7 @@ Our analysis revealed key insights from 7,200 movies spanning the last 50 years:
 
 ---
 
-<h2 id="conclusion">Conclusion 🎯</h2>
+<h2 id="conclusion">Conclusion</h2>
 
 - The **US leads global movie production**, though production rates slowed significantly in 2020.
 - **Drama** is the most prevalent genre, but **Action** and **Comedy** dominate box office revenue.
