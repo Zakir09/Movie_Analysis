@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" alt="banner" width="600">
 
-**Team Members:** Mustapha, Zakir, Tea, Reyhane
+**Team Members:** Mustapha, Zakir, Téa, Reyhane
 
 ## Table of Contents
 
