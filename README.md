@@ -1,4 +1,6 @@
-# Movie and Genre Analysis Over The Last 50 Years 🎬
+# Project: Movie and Genre Analysis Over The Last 50 Years
+
+<img src="assets/banner.gif" alt="banner" width="600">
 
 **Team Members:** Mustapha, Zakir, Tea, Reyhane
 
